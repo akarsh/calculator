@@ -212,6 +212,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentStart="true"
         android:cursorVisible="false"
+        android:inputType="numberDecimal"
         android:keepScreenOn="false"
         android:lines="2"
         android:maxLines="2"
